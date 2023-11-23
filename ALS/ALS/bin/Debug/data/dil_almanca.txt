@@ -1,0 +1,52 @@
+Benutzername:
+Passwort:
+Anmelden
+E-mail:
+Registrieren
+-----------------------
+Sprechen
+Whatsapp
+TV / Radio
+Einstellungen
+INTERNETVERBINDUNG VERLOREN
+-----------------------
+Ğ
+Ş
+Klingeln
+Ja
+Nein
+Löschen
+Sprechen
+Leeren
+Leertaste
+Notfall
+Hallo
+Wie geht es dir?
+Mir geht es gut
+Mir geht es nicht gut
+Es ist schön
+Es ist nicht schön
+Verstanden
+Ich verstehe nicht
+Sehr lustig
+Interessant
+Gib mir zeit zum schreiben
+Ich freue mich, dich zu sehen
+Schön, dich kennenzulernen
+Auf wiedersehen
+-----------------------
+Senden
+-----------------------
+Ton
+Scrollen
+NOTFALL
+-----------------------
+Speichern und Beenden
+Meinen account löschen
+-----------------------
+NOTFALLNACHRICHT GESENDET
+SCHLIEßEN
+-----------------------
+Thema
+Anhang
+Nachricht gesendet...

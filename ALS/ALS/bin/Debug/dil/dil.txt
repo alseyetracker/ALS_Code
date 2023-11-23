@@ -1,0 +1,52 @@
+Username:
+Password:
+Login
+Email:
+Sign up
+-----------------------
+Talk
+Whatsapp
+TV / Radio
+Settings
+Internet connection lost
+-----------------------
+Ğ
+Ş
+Ring
+Yes
+No
+Delete
+Speak
+Clear
+Space
+Emergency
+Hello
+How are you?
+I'm fine
+I don't feel well
+It's nice
+It's not nice
+Understood
+I don't understand
+Very funny
+Interesting
+Give me time to write
+I'm glad to see you
+Nice to meet you
+Goodbye
+-----------------------
+Send
+-----------------------
+Sound
+Scroll
+EMERGENCY
+-----------------------
+Save and Exit
+Delete my account
+-----------------------
+EMERGENCY \nMESSAGE SENT
+CLOSE
+-----------------------
+Subject
+Attachment
+Message sent...

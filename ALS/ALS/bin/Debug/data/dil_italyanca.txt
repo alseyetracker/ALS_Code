@@ -1,0 +1,52 @@
+Nome utente:
+Password:
+Login
+E-mail:
+Iscriviti
+-----------------------
+Parla
+Whatsapp
+TV / Radio
+Impostazioni
+Connessione internet persa
+-----------------------
+Ğ
+Ş
+Suona
+Sì
+No
+Cancella
+Parla
+Cancella
+Spazio
+Emergenza
+Ciao
+Come stai?
+Sto bene
+Non mi sento bene
+É bello
+Non è bello
+Capito
+Non capisco
+Molto divertente
+Interessante
+Dammi tempo per scrivere
+Sono contento di vederti
+Piacere di conoscerti
+Arrivederci
+-----------------------
+Invia
+-----------------------
+Suono
+Scorrimento
+EMERGENZA
+-----------------------
+Salva ed Esci
+Elimina il mio account
+-----------------------
+MESSAGGIO DI \nEMERGENZA INVIATO
+CHIUDI
+-----------------------
+Oggetto
+Allegato
+Messaggio inviato...

@@ -1,0 +1,52 @@
+Kullanıcı Adı:
+Parola:
+Giriş
+E-posta:
+Üye ol
+-----------------------
+Konuşma
+Whatsapp
+TV / Radio
+Ayarlar
+İNTERNET BAĞLANTISI KESİLDİ
+-----------------------
+Ğ
+Ş
+Zil
+Evet
+Hayır
+Sil
+Seslendir
+Temizle
+Boşluk
+ACİL
+Merhaba
+Nasılsın?
+İyiyim
+Kendimi iyi hissetmiyorum
+Bu güzel
+Güzel değil
+Anladım
+Anlamadım
+Çok komik
+İlginç
+Yazmam için zaman ver
+Seni gördüğüme sevindim
+Tanıştığımıza memnun oldum
+Güle güle
+-----------------------
+Gönder
+-----------------------
+Ses
+Kaydır
+ACİL
+-----------------------
+Kaydet ve Çık
+Hesabımı sil
+-----------------------
+ACİL DURUM MESAJI GÖNDERİLDİ
+KAPAT
+-----------------------
+Konu
+Ek
+Mesaj gönderildi...

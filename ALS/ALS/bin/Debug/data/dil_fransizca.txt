@@ -1,0 +1,52 @@
+Nom d'utilisateur:
+Mot de passe:
+Connexion
+E-mail:
+S'inscrire
+-----------------------
+Parler
+Whatsapp
+TV / Radio
+Paramètres
+Connexion internet perdue
+-----------------------
+Ğ
+Ş
+Sonner
+Oui
+Non
+Supprimer
+Parler
+Effacer
+Espace
+Urgence
+Bonjour
+Comment ça va?
+Je vais bien
+Je ne me sens pas bien
+C'est bien
+Ce n'est pas bien
+Compris
+Je ne comprends pas
+Très drôle
+Intéressant
+Donne-moi du temps pour écrire
+Je suis content de te voir
+Enchanté de faire ta connaissance
+Au revoir
+-----------------------
+Envoyer
+-----------------------
+Son
+Défiler
+URGENCE
+-----------------------
+Enregistrer et Quitter
+Supprimer mon compte
+-----------------------
+MESSAGE \nD'URGENCE ENVOYÉ
+FERMER
+-----------------------
+Sujet
+Pièce jointe
+Message envoyé...

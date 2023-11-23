@@ -1,0 +1,178 @@
+C:\Users\sungur_bil\source\repos\ALS\ALS\bin\Debug\ALS.exe.config
+C:\Users\sungur_bil\source\repos\ALS\ALS\bin\Debug\ALS.exe
+C:\Users\sungur_bil\source\repos\ALS\ALS\bin\Debug\ALS.pdb
+C:\Users\sungur_bil\source\repos\ALS\ALS\obj\Debug\ALS.csprojAssemblyReference.cache
+C:\Users\sungur_bil\source\repos\ALS\ALS\obj\Debug\ALS.Properties.Resources.resources
+C:\Users\sungur_bil\source\repos\ALS\ALS\obj\Debug\ALS.csproj.GenerateResource.cache
+C:\Users\sungur_bil\source\repos\ALS\ALS\obj\Debug\ALS.csproj.CoreCompileInputs.cache
+C:\Users\sungur_bil\source\repos\ALS\ALS\obj\Debug\ALS.exe
+C:\Users\sungur_bil\source\repos\ALS\ALS\obj\Debug\ALS.pdb
+C:\Users\sungur_bil\source\repos\ALS\ALS\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\sungur_bil\source\repos\ALS\ALS\obj\Debug\ALS.csproj.CopyComplete
+C:\Users\sungur_bil\source\repos\ALS\ALS\obj\Debug\ALS.ana.resources
+C:\Users\sungur_bil\source\repos\ALS\ALS\obj\Debug\ALS.konusma.resources
+C:\Users\sungur_bil\source\repos\ALS\ALS\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\sungur_bil\source\repos\ALS\ALS\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\sungur_bil\source\repos\ALS\ALS\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\sungur_bil\source\repos\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\sungur_bil\source\repos\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\sungur_bil\source\repos\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\sungur_bil\source\repos\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\sungur_bil\source\repos\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\sungur_bil\source\repos\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\sungur_bil\source\repos\ALS\ALS\obj\Debug\ALS.whatsapp.resources
+C:\Users\sungur_bil\source\repos\ALS\ALS\obj\Debug\ALS.tv.resources
+C:\Users\sungur_bil\source\repos\ALS\ALS\obj\Debug\ALS.ayar.resources
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\ALS.exe.config
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\ALS.exe
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\ALS.pdb
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.csprojAssemblyReference.cache
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.ana.resources
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.ayar.resources
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.konusma.resources
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.Properties.Resources.resources
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.tv.resources
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.whatsapp.resources
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.csproj.GenerateResource.cache
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.csproj.CoreCompileInputs.cache
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.csproj.CopyComplete
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.exe
+C:\Users\sungur_bil\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.pdb
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\ALS.exe.config
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\ALS.exe
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\ALS.pdb
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Core.dll
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Core.xml
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.csproj.AssemblyReference.cache
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.csproj.SuggestedBindingRedirects.cache
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.ana.resources
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.ayar.resources
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.konusma.resources
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.Properties.Resources.resources
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.tv.resources
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.whatsapp.resources
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.csproj.GenerateResource.cache
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.csproj.CoreCompileInputs.cache
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.csproj.CopyComplete
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.exe
+F:\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.pdb
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\ALS.exe.config
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\ALS.exe
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\ALS.pdb
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.csproj.AssemblyReference.cache
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.csproj.SuggestedBindingRedirects.cache
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.ana.resources
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.ayar.resources
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.konusma.resources
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.Properties.Resources.resources
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.tv.resources
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.whatsapp.resources
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.csproj.GenerateResource.cache
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.csproj.CoreCompileInputs.cache
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.csproj.CopyComplete
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.exe
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\10-form ekran\ALS\ALS\obj\Debug\ALS.pdb
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\ALS.exe.config
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\ALS.exe
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\ALS.pdb
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.csproj.AssemblyReference.cache
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.csproj.SuggestedBindingRedirects.cache
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.ana.resources
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.ayar.resources
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.konusma.resources
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.Properties.Resources.resources
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.tv.resources
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.whatsapp.resources
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.csproj.GenerateResource.cache
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.csproj.CoreCompileInputs.cache
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.csproj.CopyComplete
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.exe
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.pdb
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.uyari.resources
+C:\Users\BT\Desktop\ALS PROJE ADIMLARI\ALS\ALS\obj\Debug\ALS.ag.resources
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\ALS.exe.config
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\ALS.exe
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\ALS.pdb
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\obj\Debug\ALS.csproj.AssemblyReference.cache
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\obj\Debug\ALS.csproj.SuggestedBindingRedirects.cache
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\obj\Debug\ALS.ana.resources
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\obj\Debug\ALS.ayar.resources
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\obj\Debug\ALS.konusma.resources
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\obj\Debug\ALS.Properties.Resources.resources
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\obj\Debug\ALS.tv.resources
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\obj\Debug\ALS.uyari.resources
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\obj\Debug\ALS.whatsapp.resources
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\obj\Debug\ALS.csproj.GenerateResource.cache
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\obj\Debug\ALS.csproj.CoreCompileInputs.cache
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\obj\Debug\ALS.csproj.CopyComplete
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\obj\Debug\ALS.exe
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\obj\Debug\ALS.pdb
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\FireSharp.dll
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\obj\Debug\ALS.csproj.App.config
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\obj\Debug\ALS.telefon_mesaj.resources
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\obj\Debug\ALS.login.resources
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\obj\Debug\ALS.help_mail.resources
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\EO.Base.dll
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\EO.WebBrowser.dll
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\EO.WebBrowser.WinForm.dll
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\EO.WebEngine.dll
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\EO.Base.xml
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\EO.WebBrowser.xml
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\EO.WebBrowser.WinForm.xml
+C:\Users\suley\OneDrive\Desktop\EVRAKLAR\ALS PROJE ADIMLARI\proje yedek\ALS\ALS\bin\Debug\EO.WebEngine.xml
