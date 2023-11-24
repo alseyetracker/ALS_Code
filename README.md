@@ -3,7 +3,7 @@
 # ALS EyeTracker
 Free application developed for als patients.
 
-User Guide
+User Guide:
 https://github.com/alseyetracker/als_code/releases/download/yayin/user_guide.pdf
 
 
