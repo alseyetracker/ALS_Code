@@ -14,3 +14,4 @@ https://github.com/alseyetracker/als_code/releases/download/yayin/Als_Mobil.apk
 
 
 Code: Arda & Osman
+![e1](https://github.com/alseyetracker/als_code/assets/142795666/f4ed06ea-fa84-42db-be50-0b0d5f16e210)
