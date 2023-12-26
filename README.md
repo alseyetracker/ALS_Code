@@ -9,6 +9,7 @@ https://github.com/alseyetracker/als_code/releases/download/yayin/user_guide.pdf
 
 Note:Turn off the antivirus program before installation
 Install:
+https://github.com/alseyetracker/als_code/releases/download/yayin/ALS_Eyetracker_en.exe
 https://github.com/alseyetracker/als_code/releases/download/yayin/ALS_Eyetracker_tr.exe
 https://github.com/alseyetracker/als_code/releases/download/yayin/Als_Mobil.apk
 
